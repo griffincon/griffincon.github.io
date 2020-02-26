@@ -1,4 +1,4 @@
-# GriffinCon
+# Griffincon
 
 Webpage Under Construction!
 
