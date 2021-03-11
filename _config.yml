@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
-exclude: [README.md]
 title: Griffincon X
+exclude:
+  - README.md
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - CNAME
