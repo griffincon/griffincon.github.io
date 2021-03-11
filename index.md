@@ -2,8 +2,9 @@
 title: Home
 layout: default
 ---
-# Griffincon
+# Griffincon X
+## April 6-7th 11AM-7PM
 
-Webpage Under Construction!
+![Griffincon X Poster](img/griffinconxposter.png)
 
-Come Back Later
+[![Join our Discord](img/discord.png)](https://discord.gg/H5EsdJ29yx)
