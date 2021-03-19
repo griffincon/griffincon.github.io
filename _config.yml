@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Griffincon X
 exclude:
   - README.md
-  - vendor
+  - vendor/
   - Gemfile
   - Gemfile.lock
   - Makefile
