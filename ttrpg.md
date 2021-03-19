@@ -4,4 +4,3 @@ layout: default
 ---
 
 # Tabletop Role-Playing Games
-TODO
