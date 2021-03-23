@@ -95,6 +95,11 @@ layout: default
             display: block;
         }
     }
+    td a {
+        width: 100%;
+        height: 100%;
+        display: block;
+    }
 </style>
 
 # Schedule of Events
@@ -125,7 +130,11 @@ layout: default
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">1-2</td>
-                <td class="s2" dir="ltr">Alternate History: a brief introduction</td>
+                    <td class="s2" dir="ltr">
+                    <a href="/panelists.html#alternate-history-a-brief-introduction">
+                        Alternate History: a brief introduction
+                    </a>
+                </td>
                 <td></td>
                 <td class="s3 softmerge" dir="ltr">
                     <div class="softmerge-inner">Welcome to Bestham Tavern</div>
@@ -140,29 +149,38 @@ layout: default
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">3-4</td>
                 <td class="s5 softmerge" dir="ltr">
-                    <div class="softmerge-inner">Introduction to Japanese Alternative Fashion</div>
+                    <div class="softmerge-inner">
+                        <a href="/panelists.html#introduction-to-japanese-alternative-fashion">Introduction to Japanese Alternative Fashion</a>
+                    </div>
                 </td>
                 <td class="s4"></td>
                 <td class="s6"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">4-5</td>
-                <td class="s2" dir="ltr">Daleks 101</td>
+                <td class="s2" dir="ltr">
+                    <a href="/panelists.html#daleks-101">Daleks 101</a>
+                </td>
                 <td class="s5 softmerge" dir="ltr">
-                    <div class="softmerge-inner">LGBTQ Subtext in the Legend of Zelda</div>
+                    <div class="softmerge-inner">
+                    <a href="/panelists.html#lgbtq-subtext-in-the-legend-of-zelda">LGBTQ Subtext in the Legend of Zelda</a>
+                    </div>
                 </td>
                 <td class="s4"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">5-6</td>
-                <td class="s7" dir="ltr">Indie Manga in America</td>
+                <td class="s7" dir="ltr">
+                    <a href="/panelists.html#indie-manga-in-america">Indie Manga in America</a></td>
                 <td></td>
                 <td></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">6-7</td>
-                <td class="s2" dir="ltr">So you want to make Comics!?</td>
-                <td class="s5" dir="ltr">The Thrill of Deception</td>
+                <td class="s2" dir="ltr">
+                    <a href="/panelists.html#so-you-want-to-make-comics">So you want to make Comics!?</a></td>
+                <td class="s5" dir="ltr">
+                    <a href="/panelists.html#the-thrill-of-deception">The Thrill of Deception</a></td>
                 <td></td>
             </tr>
             <tr style="height: 20px">
@@ -196,25 +214,33 @@ layout: default
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">12-1</td>
-                <td class="s2" dir="ltr">LGBTQ Subtext in the Legend of Zelda</td>
+                <td class="s2" dir="ltr">
+                    <a href="/panelists.html#lgbtq-subtext-in-the-legend-of-zelda">LGBTQ Subtext in the Legend of Zelda</a>
+                </td>
                 <td></td>
                 <td></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">1-2</td>
-                <td class="s7" dir="ltr">Indie Manga in America</td>
+                <td class="s7" dir="ltr">
+                    <a href="/panelists.html#indie-manga-in-america">Indie Manga in America</a></td>
+                </td>
                 <td></td>
                 <td></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">2-3</td>
-                <td class="s2" dir="ltr">So you want to make Comics!?</td>
+                <td class="s2" dir="ltr">
+                    <a href="/panelists.html#so-you-want-to-make-comics">So you want to make Comics!?</a></td>
+                </td>
                 <td></td>
                 <td class="s2" dir="ltr">The Shallow Sea</td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">3-4</td>
-                <td class="s7" dir="ltr">Get Out of YOUR Way</td>
+                <td class="s7" dir="ltr">
+                    <a href="/panelists.html#get-out-of-your-way">Get Out of YOUR Way</a>
+                </td>
                 <td></td>
                 <td class="s2"></td>
             </tr>
@@ -226,14 +252,20 @@ layout: default
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">5-6</td>
-                <td class="s2" dir="ltr">Write Your Book: How to Get Started</td>
+                <td class="s2" dir="ltr">
+                    <a href="/panelists.html#write-your-book-how-to-get-started">Write Your Book: How to Get Started</a>
+                </td>
                 <td></td>
                 <td class="s2"></td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">6-7</td>
-                <td class="s7" dir="ltr">Copyright Law for Creative Types</td>
-                <td class="s2" dir="ltr">The Thrill of Deception</td>
+                <td class="s7" dir="ltr">
+                    <a href="/panelists.html#copyright-law-for-creative-types">Copyright Law for Creative Types</a>
+                </td>
+                <td class="s2" dir="ltr">
+                    <a href="/panelists.html#the-thrill-of-deception">The Thrill of Deception</a>
+                </td>
                 <td></td>
             </tr>
         </tbody>
