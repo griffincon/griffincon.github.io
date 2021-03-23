@@ -45,7 +45,7 @@ Q&A panel about making comics for cartoonists, writers and artists interested in
 Kevin is a podcaster / published comic book writer with published work from Scout comics, Image comics and self-published work who is here to answer any questions you may have about comics, making comics and graphic novels.
 You can listen to the podcast at <a href="https://www.thewordbros.com">www.thewordbros.com</a>
 
-## The thrill of deception 
+## The Thrill of Deception 
 ### Ama Adair
 Nothing keep us turning pages, or glued to the screen more than the drive to know. So it’s no surprise that the spy is one of the most thrilling characters in any story, regardless of genre. Ever wonder what it’s really like? What it takes to make deception real? Author A.M. Adair gives you a look behind the facade into what makes a spy.
 
