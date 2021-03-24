@@ -110,9 +110,9 @@ layout: default
         <thead>
             <tr>
                 <th class="row-header freezebar-origin-ltr"></th>
-                <th id="0C1" class="column-headers-background">FANTASY TIDEWATER</th>
-                <th id="0C2" class="column-headers-background">CYBER CHESAPEAKE</th>
-                <th id="0C3" class="column-headers-background">YORK IN SPACE</th>
+                <th class="column-headers-background">FANTASY TIDEWATER</th>
+                <th class="column-headers-background">CYBER CHESAPEAKE</th>
+                <th class="column-headers-background">YORK IN SPACE</th>
             </tr>
         </thead>
         <tbody>
@@ -130,15 +130,13 @@ layout: default
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">1-2</td>
-                    <td class="s2" dir="ltr">
+                <td class="s2" dir="ltr">
                     <a href="/panelists.html#alternate-history-a-brief-introduction">
                         Alternate History: a brief introduction
                     </a>
                 </td>
                 <td></td>
-                <td class="s3 softmerge" dir="ltr">
-                    <div class="softmerge-inner">Welcome to Bestham Tavern</div>
-                </td>
+                <td class="s3 softmerge" dir="ltr">Welcome to Bestham Tavern</td>
             </tr>
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">2-3</td>
@@ -149,9 +147,9 @@ layout: default
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">3-4</td>
                 <td class="s5 softmerge" dir="ltr">
-                    <div class="softmerge-inner">
-                        <a href="/panelists.html#introduction-to-japanese-alternative-fashion">Introduction to Japanese Alternative Fashion</a>
-                    </div>
+                        <a href="/panelists.html#introduction-to-japanese-alternative-fashion">
+                            Introduction to Japanese Alternative Fashion
+                        </a>
                 </td>
                 <td class="s4"></td>
                 <td class="s6"></td>
@@ -162,9 +160,7 @@ layout: default
                     <a href="/panelists.html#daleks-101">Daleks 101</a>
                 </td>
                 <td class="s5 softmerge" dir="ltr">
-                    <div class="softmerge-inner">
                     <a href="/panelists.html#lgbtq-subtext-in-the-legend-of-zelda">LGBTQ Subtext in the Legend of Zelda</a>
-                    </div>
                 </td>
                 <td class="s4"></td>
             </tr>
@@ -178,15 +174,11 @@ layout: default
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">6-7</td>
                 <td class="s2" dir="ltr">
-                    <a href="/panelists.html#so-you-want-to-make-comics">So you want to make Comics!?</a></td>
+                    <a href="/panelists.html#so-you-want-to-make-comics">So you want to make Comics!?</a>
+                </td>
                 <td class="s5" dir="ltr">
-                    <a href="/panelists.html#the-thrill-of-deception">The Thrill of Deception</a></td>
-                <td></td>
-            </tr>
-            <tr style="height: 20px">
-                <td></td>
-                <td></td>
-                <td></td>
+                    <a href="/panelists.html#the-thrill-of-deception">The Thrill of Deception</a>
+                </td>
                 <td></td>
             </tr>
         </tbody>
@@ -200,9 +192,9 @@ layout: default
         <thead>
             <tr>
                 <th class="row-header freezebar-origin-ltr"></th>
-                <th id="0C1" class="column-headers-background">FANTASY TIDEWATER</th>
-                <th id="0C2" class="column-headers-background">CYBER CHESAPEAKE</th>
-                <th id="0C3" class="column-headers-background">YORK IN SPACE</th>
+                <th class="column-headers-background">FANTASY TIDEWATER</th>
+                <th class="column-headers-background">CYBER CHESAPEAKE</th>
+                <th class="column-headers-background">YORK IN SPACE</th>
             </tr>
         </thead>
         <tbody>
@@ -223,7 +215,7 @@ layout: default
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">1-2</td>
                 <td class="s7" dir="ltr">
-                    <a href="/panelists.html#indie-manga-in-america">Indie Manga in America</a></td>
+                    <a href="/panelists.html#indie-manga-in-america">Indie Manga in America</a>
                 </td>
                 <td></td>
                 <td></td>
@@ -231,7 +223,7 @@ layout: default
             <tr style="height: 20px">
                 <td class="s1" dir="ltr">2-3</td>
                 <td class="s2" dir="ltr">
-                    <a href="/panelists.html#so-you-want-to-make-comics">So you want to make Comics!?</a></td>
+                    <a href="/panelists.html#so-you-want-to-make-comics">So you want to make Comics!?</a>
                 </td>
                 <td></td>
                 <td class="s2" dir="ltr">The Shallow Sea</td>
