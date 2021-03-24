@@ -1,19 +1,8 @@
 ---
 title: Panelists
 layout: default
+css: panelists
 ---
-<style>
-.main-content h3 {
-    margin: 0rem;
-}
-.main-content h2 {
-    margin-bottom: 0;
-}
-.main-content p {
-    margin-top: 0;
-}
-
-</style>
 
 # Panelists
 
