@@ -2,12 +2,7 @@
     color: inherit;
 }
 
-.ritz .waffle .s4 {
-    border-left: none;
-    background-color: #ffffff;
-}
-
-.ritz .waffle .s5 {
+.ritz .waffle .yellow {
     border-right: none;
     background-color: #ffff00;
     text-align: left;
@@ -18,7 +13,7 @@
     padding: 2px 3px 2px 3px;
 }
 
-.ritz .waffle .s1 {
+.ritz .waffle .time {
     background-color: #ffffff;
     text-align: right;
     color: #000000;
@@ -28,7 +23,7 @@
     padding: 2px 3px 2px 3px;
 }
 
-.ritz .waffle .s6 {
+.ritz .waffle .blue {
     border-left: none;
     background-color: #00ffff;
     text-align: left;
@@ -39,45 +34,8 @@
     padding: 2px 3px 2px 3px;
 }
 
-.ritz .waffle .s2 {
-    background-color: #00ffff;
-    text-align: left;
-    color: #000000;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-}
-
-.ritz .waffle .s3 {
-    border-right: none;
-    background-color: #00ffff;
-    text-align: left;
-    color: #000000;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-}
-
-.ritz .waffle .s7 {
-    background-color: #ffff00;
-    text-align: left;
-    color: #000000;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-}
-
-.ritz .waffle .s0 {
-    background-color: #ffffff;
-    text-align: left;
-    color: #000000;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
+.ritz .waffle tbody tr {
+    height: 20px;
 }
 
 @include small {
