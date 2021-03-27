@@ -319,6 +319,22 @@ css: schedule
 
 # Events
 
+## The Thrill of Deception 
+### Ama Adair
+Nothing keep us turning pages, or glued to the screen more than the drive to know. So it’s no surprise that the spy is one of the most thrilling characters in any story, regardless of genre. Ever wonder what it’s really like? What it takes to make deception real? Author A.M. Adair gives you a look behind the facade into what makes a spy.
+
+## Oh god, I put it on the Internet
+### William & Mary Costuming Club
+Wherever there are children with internet access, there are bound to be regrettable post histories. From terrible fanfiction to homemade music videos, join the W&M Cosplay Club as they explore their internet blunder years with this show & tell style panel. Anyone who attends this panel is encouraged to take the stage and share their own photos, videos, and other embarrassing memories.
+
+## Cosplay During the Pandemic
+### William & Mary Costuming Club
+The COVID-19 pandemic has had a profound impact on everyone who enjoys convention culture, including the cosplay community. Join the W&M Cosplay Club as they address how to keep up with your craft during difficult times, and premiere the socially distanced masquerade video they created over the course of the school year, "Dating SMASH!" The panel and screening will be followed by a Q&A session with members of the club.
+
+## Closet Cosplay Olympics
+### William & Mary Costuming Club
+Want to test your dress-up skills on the fly? Join the W&M Cosplay Club for this fast-paced, competition-style panel. Participants will be given a broad theme and five minutes to put together a cosplay look using only items and garments from their home
+
 ## Alternate History: a brief introduction
 ### Alexander Wallace
 
@@ -347,9 +363,6 @@ Q&A panel about making comics for cartoonists, writers and artists interested in
 Kevin is a podcaster / published comic book writer with published work from Scout comics, Image comics and self-published work who is here to answer any questions you may have about comics, making comics and graphic novels.
 You can listen to the podcast at <a href="https://www.thewordbros.com">www.thewordbros.com</a>
 
-## The Thrill of Deception 
-### Ama Adair
-Nothing keep us turning pages, or glued to the screen more than the drive to know. So it’s no surprise that the spy is one of the most thrilling characters in any story, regardless of genre. Ever wonder what it’s really like? What it takes to make deception real? Author A.M. Adair gives you a look behind the facade into what makes a spy.
 
 ## Get Out of YOUR Way
 ### D.M. Patterson
