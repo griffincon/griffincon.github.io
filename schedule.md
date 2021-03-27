@@ -345,7 +345,7 @@ An introduction to the genre of alternate history in various media.
 Join us for an exploration of Japanese Alternative Fashions and how you (yes, you!) can wear them. Includes a short history segment about Harajuku, descriptions of some prominent fashions (including lolita, decora, fairy kei, and Japanese punk), and advice on how to bring kawaii into your outfits and/or dorm!
 
 ## Daleks 101
-### Richard Siebigteroth
+### Old Dominion Daleks
 A guide to the history of Daleks in Dr. Who and how to build your own
 
 ## LGBTQ Subtext in the Legend of Zelda
