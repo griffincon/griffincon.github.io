@@ -354,8 +354,6 @@ A guide to the history of Daleks in Dr. Who and how to build your own
 
 The Legend of Zelda series has many characters that subvert gender expectations and are often speculated to be LGBT, but does putting Link in a dress and calling her a "vai" really make them the genderfluid icon we deserve? The history of Hyrule is also the history of Nintendo’s poor choices in character design—for better or worse, are these characters intentionally queer? 
 
-## Indie manga in America
-### Grace Lee
 
 ## So you want to make Comics!?
 ### Kevin Cuffe 
@@ -365,12 +363,31 @@ You can listen to the podcast at <a href="https://www.thewordbros.com">www.thewo
 
 
 ## Get Out of YOUR Way
-### D.M. Patterson
+### D.M. Patterson & Michael Thompson
 Tips on how to get unstuck in your projects.
-
-## Write your book: How to get started
-### Tara Moeller
 
 ## Copyright Law for Creative Types
 ### Jefferson Grant Spears
 A look from a legal perspective on copyrights, what they are, and what they mean for you as a creative individual. Listen to a lawyer explain this legal concept.
+
+## Polish fandom 101
+### Marcin "Alqua" Klak
+Have you ever thought how does the fandom look in different countries? If yes this talk may give you a glimpse of the fandom in Poland. You will get the opportunity to take a look at Polish cons, learn about local writers other than Stanisław Lem and Andrzej Sapkowski, and lastly ask any questions.
+
+## Fan Funds and why we need them
+### Marcin "Alqua" Klak
+Fan Funds date back to 1940s and are still here. They are a way to connect fandom from different regions. This is done by sending a fan to a convention in other part of the world (or the country). The talk will share a bit about their history but we will talk more about the present times and how one can apply for them to have the great fannish adventure.
+
+## Edittting Your Works
+### D.M. Patterson, Tara Moeller & Grace Lee
+The ins and outs, up and downs, and absolute importance of editing.
+
+## Academic & Applied Esports Program at W&M
+### Michele King, Director of Esports
+As the result of its exponential growth, the $1 billion esports industry is becoming mainstream with international professional leagues, collegiate teams, and pilot programs in high schools.  Incoming freshmen who are looking for an esports community can now call W&M home. Meet the Director of Esports, current varsity players/coaches, and student EPs (Esports Pioneers) as we embrace the W&M esports gaming community and discuss the future of esports on campus.  Game On!
+
+## Write your book: How to get started
+### Tara Moeller & D.M. Patterson
+
+## Indie manga in America
+### Grace Lee
