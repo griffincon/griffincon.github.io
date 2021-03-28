@@ -17,7 +17,7 @@ css: schedule
                 <th class="column-headers-background">FANTASY TIDEWATER</th>
                 <th class="column-headers-background">CYBER CHESAPEAKE</th>
                 <th class="column-headers-background">YORK IN SPACE</th>
-                <th class="column-headers-background">Castle James</th>
+                <th class="column-headers-background">CASTLE JAMES</th>
                 <th class="row-header freezebar-origin-ltr"></th>
             </tr>
         </thead>
@@ -172,7 +172,7 @@ css: schedule
                 <th class="column-headers-background">FANTASY TIDEWATER</th>
                 <th class="column-headers-background">CYBER CHESAPEAKE</th>
                 <th class="column-headers-background">YORK IN SPACE</th>
-                <th class="column-headers-background">Castle James</th>
+                <th class="column-headers-background">CASTLE JAMES</th>
                 <th class="row-header freezebar-origin-ltr"></th>
             </tr>
         </thead>
