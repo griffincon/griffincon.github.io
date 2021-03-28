@@ -5,6 +5,6 @@ layout: default
 # Griffincon X
 ## April 6-7th 11AM-7PM
 
-![Griffincon X Poster](assets/img/griffinconxposter.png)
+<iframe src="https://discord.com/widget?id=810967571066388500&theme=dark" width="836" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-[![Join our Discord](assets/img/discord.png)](https://discord.gg/H5EsdJ29yx)
+![Griffincon X Poster](assets/img/griffinconxposter.png)
