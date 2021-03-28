@@ -19,3 +19,7 @@ Jacqueline Weber
 [Jersey’s Cards Comics and Gaming](https://www.jerseyscc.com)
 
 [Glasgow in 2024](https://glasgow2024.org)
+
+[Michael Thompson](https://michaelthompsonbooks.com/)
+
+[White Hare Knits](https://www.etsy.com/shop/whitehareknitsbyemma)
