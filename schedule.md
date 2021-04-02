@@ -24,7 +24,7 @@ css: schedule
         <tbody>
             <tr>
                 <td class="time" dir="ltr">11:00</td>
-                <td class="blue"><a href="#the-thrill-of-deception">The Thrill of Deception</a></td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -32,7 +32,7 @@ css: schedule
             </tr>
             <tr>
                 <td class="time" dir="ltr">11:30</td>
-                <td class="blue"></td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -89,7 +89,7 @@ css: schedule
             <tr>
                 <td class="time">3:00</td>
                 <td class="yellow"><a href="#introduction-to-japanese-alternative-fashion">Introduction to Japanese Alternative Fashion</a></td>
-                <td></td>
+                <td class="blue"><a href="#the-thrill-of-deception">The Thrill of Deception</a></td>
                 <td class="blue"></td>
                 <td></td>
                 <td class="time">3:00</td>
@@ -97,7 +97,7 @@ css: schedule
             <tr>
                 <td class="time">3:30</td>
                 <td class="yellow"></td>
-                <td></td>
+                <td class="blue"></td>
                 <td class="blue"></td>
                 <td></td>
                 <td class="time">3:30</td>
