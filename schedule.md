@@ -236,7 +236,7 @@ css: schedule
             <tr>
                 <td class="time">2:30</td>
                 <td class="blue"></td>
-                <td class="yellow"></td>
+                <td></td>
                 <td class="blue"></td>
                 <td></td>
                 <td class="time">2:30</td>
