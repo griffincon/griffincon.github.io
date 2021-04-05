@@ -347,8 +347,10 @@ Join us for an exploration of Japanese Alternative Fashions and how you (yes, yo
 ### Old Dominion Daleks
 A guide to the history of Daleks in Dr. Who and how to build your own
 
-## Indie manga in America
-### Grace Lee
+## Indie Manga in America
+### 24x4
+Do you draw or write manga or have wanted to start? Do you think you're drawing manga but people tell you it's not legit? This panel will ask questions of what manga is at its most basic and how to do it well. There will be discussions on authenticity in approaching manga on an art and writing level, function over form, respect for other cultures, historical traditions, and emotional and cultural honesty. If you're already pretty confident in your manga work, hopefully this can offer new perspectives that will help you sharpen your creative blades. This is a theory discussion for intermediate creators (maybe you've made a US comic or novel, maybe you draw manga style still images and want to make a book), so we won't be talking about basic how-to unless you ask if there's time for questions. All level of questions, beginner to advanced, are welcome in 24x4's DMs. 24x4 is a Korean American comic book and manga artist. They had a book considered for the 2020 Tezuka Award and are currently in the final round of judging for the SMA competition. They're addicted to Japanese competitions and are working on a manga publishing startup. (If you've got a portfolio/want to make manga, slide into their DMs.) They work in book editorial by day.
+
 
 ## LGBTQ Subtext in the Legend of Zelda
 ### Emily MacKenzie
@@ -357,7 +359,7 @@ A guide to the history of Daleks in Dr. Who and how to build your own
 The Legend of Zelda series has many characters that subvert gender expectations and are often speculated to be LGBT, but does putting Link in a dress and calling her a "vai" really make them the genderfluid icon we deserve? The history of Hyrule is also the history of Nintendo’s poor choices in character design—for better or worse, are these characters intentionally queer? 
 
 ## Edittting Your Works
-### D.M. Patterson, Tara Moeller & Grace Lee
+### D.M. Patterson, Tara Moeller & 24x4
 The ins and outs, up and downs, and absolute importance of editing.
 
 ## So you want to make Comics!?
