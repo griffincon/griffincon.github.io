@@ -10,7 +10,9 @@ layout: default
 
 [Art and Taylor](https://www.instagram.com/artandtaylor/)
 
-Chineme N.
+[Cinnamon Draws](https://www.instagram.com/cinnamonn.draws/)
+
+[Christian Mathis](https://www.amazon.com/gp/aw/d/1089815719/ref=tmm_paptitle_0?ie=UTF8&qid=1617144575&sr=8-3)
 
 [Conquest Publishing](https://www.conquestuniverse.com)
 
@@ -20,7 +22,7 @@ Chineme N.
 
 [Gilby Arts](https://gilbyarts.etsy.com)
 
-Katherine Hagen
+[Logan Parrott](https://www.etsy.com/shop/CoolWizardDude)
 
 [Painted World Artist](https://www.etsy.com/ca/shop/PaintedWorldArtist?ref=seller-platform-mcnav)
 
@@ -31,3 +33,5 @@ Katherine Hagen
 [Space Cat Crafts](https://www.etsy.com/shop/SpaceCatCraftsCo)
 
 [Stephen Sherrange](https://www.millenniumsteve.com)
+
+[Thomas B. de Mayo](https://www.amazon.com/dp/0866988165/ref=cm_sw_em_r_mt_dp_GB9X9JMN0Q9GG2G9ZQ4QHralganarg#1608)

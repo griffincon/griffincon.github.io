@@ -4,6 +4,8 @@ layout: default
 ---
 
 # Vendors
+[4U - Handcrafted Jewelry Designs](https://www.etsy.com/shop/4UHandcraftedJewelry)
+
 [A.M. Adair](https://amadair.com)
 
 [Diane Morrison](https://www.amazon.com/shop/sablearadia)
@@ -14,7 +16,7 @@ layout: default
 
 [HCS Publishing](https://chalagi1.wixsite.com/hcspub/authors)
 
-Jacqueline Weber
+[Hoarding Dragons](https://www.etsy.com/shop/HoardingDragons)
 
 [Jersey’s Cards Comics and Gaming](https://www.jerseyscc.com)
 
