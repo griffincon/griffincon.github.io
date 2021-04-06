@@ -8,6 +8,8 @@ css: schedule
  
 # Schedule of Events
 
+All times are in Eastern Daylight Time.
+
 ## Tuesday, April 6th
 <div class="ritz grid-container" dir="ltr" markdown="0">
     <table class="waffle" cellspacing="0" cellpadding="0">
