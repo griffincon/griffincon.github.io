@@ -50,7 +50,7 @@ All times are in Eastern Daylight Time.
             </tr>
             <tr>
                 <td class="time">2:00</td>
-                <td class="blue">Copyright Law for Creators</td>
+                <td class="blue">How to Create a Comic</td>
                 <td class="yellow">Artist Alley and Vendor Fair</td>
                 <td class="yellow">Magical Girl Panel (18+)</td>
                 <td class="time">2:00</td>
