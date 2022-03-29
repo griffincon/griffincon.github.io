@@ -3,8 +3,28 @@ title: Cosplay Events
 layout: default
 ---
 
-## Griffincon X Cosplay Contest
-Griffincon is holding its annual cosplay contest online this year! Virtual judging will take place in the cosplay-contest-judging voice channel between 2:30pm and 4pm on Wednesday by a panel of three W&M alumni, all of them former presidents of the W&M Cosplay Club. The contest signup link will be posted in this channel first thing Tuesday morning. After signups begin, feel free to share pictures of your competing cosplays in the #cosplay-contest channel for the judges. The first-prize winner will receive a $50 JOANN gift card, the second-prize winner a $20 gift card, and the third-prize winner a $10 gift card. Good luck!
+## Griffincon XI Cosplay Contest
+GriffinCon is continuing the annual cosplay contest, hosted by the W&M Costuming Club! The contest will be Saturday, April 2nd, from 11:00 AM to 1:00 PM, in Tidewater. There will be prizes! 
 
-## #cosplay-sharing Cosplay Contest
-Post photos of your cosplays in #cosplay-sharing and vote for your favorites! The photo doesn't need to be recent, but it does need to be of you. The cosplayer with the most heart reacts by 7pm on Wednesday will receive a $20 JOANN gift card and be ranked among our cosplay contest winners!
+## William & Mary Costuming Club Cosplay Contest Rules
+<ol>
+  <li>Only current and admitted William & Mary students may enter.</li>
+  <li>There will be two categories to enter, and you may enter both. You may only win one award.</li>
+  <li>The Hall Costume Contest is based on the overall appearance of the cosplay. Participants will submit a reference photo of the character they are cosplaying. You will be judged on how close you look to the reference photo.</li>
+  <li>“Best Craftsman” cosplays must be at least 80% handmade by the participant to enter this category. You may not enter “Best Craftsman” on someone else’s behalf. OCs and costume designs may be entered.</li>
+  <li>One entrance per participant per category. You may not enter on someone else’s behalf.</li>
+  <li>You must be wearing the costume to enter.</li>
+  <li>Cosplay club, besides the three judges, may enter.</li>
+  <li>Cosplays must be appropriate and follow university policy: i.e. no lingerie, using makeup to darken skin, no prop weapons.</li>
+</ol>
+
+## Prizes and Winners
+Best in Hall: 
+1st: 20$ Amazon gift card.  
+2nd: 15$ Amazon gift card. 
+3rd: 10$ Amazon gift card. 
+
+Best Craftsman: 
+1st: 20$ Jo-Ann's gift card. 
+2nd: 15$ Jo-Ann's gift card. 
+3rd: 10$ Jo-Ann's gift card. 
