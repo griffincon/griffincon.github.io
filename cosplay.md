@@ -20,11 +20,11 @@ GriffinCon is continuing the annual cosplay contest, hosted by the W&M Costuming
 
 ## Prizes and Winners
 Best in Hall: 
-1st: 20$ Amazon gift card.  
-2nd: 15$ Amazon gift card. 
-3rd: 10$ Amazon gift card. 
-
-Best Craftsman: 
-1st: 20$ Jo-Ann's gift card. 
-2nd: 15$ Jo-Ann's gift card. 
-3rd: 10$ Jo-Ann's gift card. 
+<p>1st: 20$ Amazon gift card. 
+<p>2nd: 15$ Amazon gift card. 
+<p>3rd: 10$ Amazon gift card. 
+<p>
+<p>Best Craftsman: 
+<p>1st: 20$ Jo-Ann's gift card. 
+<p>2nd: 15$ Jo-Ann's gift card. 
+<p>3rd: 10$ Jo-Ann's gift card. 
