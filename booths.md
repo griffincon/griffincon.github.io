@@ -8,7 +8,7 @@ layout: default
 [Annemarie Zheng]() <br>
 [Danielle Seay](https://www.instagram.com/danyellysdoodles/?hl=en) <br>
 [Isabella Wu](https://twitter.com/coeurvus) <br>
-[Rachel/ Sugamint Studios](https://twitter.com/sugamintyy) <br>
+[Rachel/Sugamint Studios](https://twitter.com/sugamintyy) <br>
 [Sara](https://mobile.twitter.com/spaceseals) <br>
 [Sidney Tolentino](simikae.tumblr.com) <br>
 
