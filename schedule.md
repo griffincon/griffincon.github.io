@@ -10,42 +10,35 @@ css: schedule
 
 All times are in Eastern Daylight Time.
 
-## Tuesday, April 6th
+## Saturday, April 2nd
 <div class="ritz grid-container" dir="ltr" markdown="0">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <thead>
             <tr>
                 <th class="row-header freezebar-origin-ltr"></th>
-                <th class="column-headers-background">FANTASY TIDEWATER</th>
-                <th class="column-headers-background">CYBER CHESAPEAKE</th>
-                <th class="column-headers-background">YORK IN SPACE</th>
-                <th class="column-headers-background">CASTLE JAMES</th>
+                <th class="column-headers-background">TIDEWATER A</th>
+                <th class="column-headers-background">TIDEWATER B</th>
+                <th class="column-headers-background">THE YORK ROOM</th>
                 <th class="row-header freezebar-origin-ltr"></th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td class="time" dir="ltr">11:00</td>
+                <td class="time">10:00</td>
+                <td colspan="2" class="blue">Opening Ceremonies</td>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td class="time" dir="ltr">11:00</td>
+                <td class="time">10:00</td>
             </tr>
             <tr>
-                <td class="time" dir="ltr">11:30</td>
+                <td class="time">11:00</td>
+                <td colspan="2" class="yellow">Cosplay Contest</td>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td class="time" dir="ltr">11:30</td>
+                <td class="time">11:00</td>
             </tr>
             <tr>
                 <td class="time">12:00</td>
-                <td class="yellow"><a href="#oh-god-i-put-it-on-the-internet">Oh god, I put it on the Internet!</a></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td colspan="2" class="yellow"></td>
+                <td class="blue">Pokemon Trivia</td>
                 <td class="time">12:00</td>
             </tr>
             <tr>
