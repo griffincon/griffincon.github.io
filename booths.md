@@ -4,24 +4,24 @@ layout: default
 ---
 
 # Artists
-[Adonis Anderson](https://ko-fi.com/donisndoughboy)
-[Annemarie Zheng]()
-[Danielle Seay](https://www.instagram.com/danyellysdoodles/?hl=en)
-[Isabella Wu](https://twitter.com/coeurvus)
-[Rachel/ Sugamint Studios](https://twitter.com/sugamintyy)
-[Sara](https://mobile.twitter.com/spaceseals)
-[Sidney Tolentino](simikae.tumblr.com)
+[Adonis Anderson](https://ko-fi.com/donisndoughboy) <br>
+[Annemarie Zheng]() <br>
+[Danielle Seay](https://www.instagram.com/danyellysdoodles/?hl=en) <br>
+[Isabella Wu](https://twitter.com/coeurvus) <br>
+[Rachel/ Sugamint Studios](https://twitter.com/sugamintyy) <br>
+[Sara](https://mobile.twitter.com/spaceseals) <br>
+[Sidney Tolentino](simikae.tumblr.com) <br>
 
 # Clubs
-[1693 Furs](tribelink.wm.edu/organization/1693furs)
-[Costuming Club](https://tribelink.wm.edu/organization/costuming)
-[Skiffy](https://twitter.com/wmskiffy)
+[1693 Furs](tribelink.wm.edu/organization/1693furs) <br>
+[Costuming Club](https://tribelink.wm.edu/organization/costuming) <br>
+[Skiffy](https://twitter.com/wmskiffy) <br>
 
 # Publishers
-[Conquest Publishing](https://conquestuniverse.com/)
-[Dreampunk Press](https://www.dreampunkpress.com/)
+[Conquest Publishing](https://conquestuniverse.com/) <br>
+[Dreampunk Press](https://www.dreampunkpress.com/) <br>
 
 # Vendors
-[Aubree Musicant]()
-[Darrison](https://tinyurl.com/3b2zdvhp)
-[Kaleea]()
+[Aubree Musicant]() <br>
+[Darrison](https://tinyurl.com/3b2zdvhp) <br>
+[Kaleea]() <br>
