@@ -4,14 +4,14 @@ layout: default
 ---
 
 # Artists
-[Adonis Anderson](https://ko-fi.com/donisndoughboy) <br>
-[Annemarie Zheng]() <br>
-[Danielle Seay](https://www.instagram.com/danyellysdoodles/?hl=en) <br>
-[Isabella Wu](https://twitter.com/coeurvus) <br>
-[Michael Parodi](https://www.mastercreationsenterprises.com/)
-[Rachel/Sugamint Studios](https://twitter.com/sugamintyy) <br>
-[Sara](https://mobile.twitter.com/spaceseals) <br>
-[Sidney Tolentino](simikae.tumblr.com) <br>
+[Adonis Anderson](https://ko-fi.com/donisndoughboy){:target="_blank"} <br>
+[Annemarie Zheng](){:target="_blank"} <br>
+[Danielle Seay](https://www.instagram.com/danyellysdoodles/?hl=en){:target="_blank"} <br>
+[Isabella Wu](https://twitter.com/coeurvus){:target="_blank"} <br>
+[Michael Parodi](https://www.mastercreationsenterprises.com/){:target="_blank"} <br>
+[Rachel/Sugamint Studios](https://twitter.com/sugamintyy){:target="_blank"} <br>
+[Sara](https://mobile.twitter.com/spaceseals){:target="_blank"} <br>
+[Sidney Tolentino](simikae.tumblr.com){:target="_blank"} <br>
 
 # Clubs
 [1693 Furs](tribelink.wm.edu/organization/1693furs) <br>
