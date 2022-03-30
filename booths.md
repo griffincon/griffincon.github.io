@@ -14,17 +14,17 @@ layout: default
 [Sidney Tolentino](simikae.tumblr.com){:target="_blank"} <br>
 
 # Clubs
-[1693 Furs](tribelink.wm.edu/organization/1693furs) <br>
-[Costuming Club](https://tribelink.wm.edu/organization/costuming) <br>
-[Skiffy](https://twitter.com/wmskiffy) <br>
+[1693 Furs](tribelink.wm.edu/organization/1693furs){:target="_blank"} <br>
+[Costuming Club](https://tribelink.wm.edu/organization/costuming){:target="_blank"} <br>
+[Skiffy](https://twitter.com/wmskiffy){:target="_blank"} <br>
 
 # Publishers
-[Conquest Publishing](https://conquestuniverse.com/) <br>
-[Dreampunk Press](https://www.dreampunkpress.com/) <br>
-[HCS (Hatton Cross Steampunk)](https://chalagi1.wixsite.com/hcspub)<br>
+[Conquest Publishing](https://conquestuniverse.com/){:target="_blank"} <br>
+[Dreampunk Press](https://www.dreampunkpress.com/){:target="_blank"} <br>
+[HCS (Hatton Cross Steampunk)](https://chalagi1.wixsite.com/hcspub){:target="_blank"} <br>
 
 # Vendors
-[Aubree Musicant]() <br>
-[Darrison](https://tinyurl.com/3b2zdvhp) <br>
-[Kaleea]() <br>
-[Morven Moeller](https://portfolimo.com/)
+[Aubree Musicant](){:target="_blank"} <br>
+[Darrison](https://tinyurl.com/3b2zdvhp){:target="_blank"} <br>
+[Kaleea](){:target="_blank"} <br>
+[Morven Moeller](https://portfolimo.com/){:target="_blank"}
