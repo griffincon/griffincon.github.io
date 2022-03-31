@@ -11,6 +11,7 @@ layout: default
 [Michael Parodi](https://www.mastercreationsenterprises.com/){:target="_blank"} <br>
 [Rachel/Sugamint Studios](https://twitter.com/sugamintyy){:target="_blank"} <br>
 [Sara](https://mobile.twitter.com/spaceseals){:target="_blank"} <br>
+[Sarah Solomon](https://www.facebook.com/PisPens/){:target="_blank"} <br>
 [Sidney Tolentino](simikae.tumblr.com){:target="_blank"} <br>
 
 # Clubs
