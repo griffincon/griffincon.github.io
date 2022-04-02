@@ -5,7 +5,9 @@ layout: default
 
 # Artists
 [Adonis Anderson](https://ko-fi.com/donisndoughboy){:target="_blank"} <br>
-[Annemarie Zheng](){:target="_blank"} <br>
+[Annemarie Zheng]() <br>
+[Benny Blue](https://benny.blue){:target="_blank"}<br>
+[Chris](https://sites.google.com/email.wm.edu/works-for-print/commissionoriginal-art) {:target="_blank"}<br>
 [Danielle Seay](https://www.instagram.com/danyellysdoodles/?hl=en){:target="_blank"} <br>
 [Isabella Wu](https://twitter.com/coeurvus){:target="_blank"} <br>
 [Michael Parodi](https://www.mastercreationsenterprises.com/){:target="_blank"} <br>
@@ -25,8 +27,8 @@ layout: default
 [HCS (Hatton Cross Steampunk)](https://chalagi1.wixsite.com/hcspub){:target="_blank"} <br>
 
 # Vendors
-[Aubree Musicant](){:target="_blank"} <br>
+[Aubree Musicant]() <br>
 [Darrison](https://tinyurl.com/3b2zdvhp){:target="_blank"} <br>
-[Kaleea](){:target="_blank"} <br>
-[Made By Mo (Morgan Sanders) ](){:target="_blank"} <br>
+[Kaleea]() <br>
+[Made By Mo (Morgan Sanders) ]() <br>
 [Morven Moeller](https://portfolimo.com/){:target="_blank"}
