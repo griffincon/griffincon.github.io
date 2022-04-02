@@ -7,7 +7,7 @@ layout: default
 [Adonis Anderson](https://ko-fi.com/donisndoughboy){:target="_blank"} <br>
 [Annemarie Zheng]() <br>
 [Benny Blue](https://benny.blue){:target="_blank"}<br>
-[Chris](https://sites.google.com/email.wm.edu/works-for-print/commissionoriginal-art) {:target="_blank"}<br>
+[Chris](https://sites.google.com/email.wm.edu/works-for-print/commissionoriginal-art){:target="_blank"}<br>
 [Danielle Seay](https://www.instagram.com/danyellysdoodles/?hl=en){:target="_blank"} <br>
 [Isabella Wu](https://twitter.com/coeurvus){:target="_blank"} <br>
 [Michael Parodi](https://www.mastercreationsenterprises.com/){:target="_blank"} <br>
