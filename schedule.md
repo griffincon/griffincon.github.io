@@ -5,7 +5,7 @@ css: schedule
 ---
 
 <!-- Thanks for the HTML export google sheets! -->
- 
+<!-- 
 # Schedule of Events
 
 All times are in Eastern Daylight Time.
@@ -86,3 +86,5 @@ All times are in Eastern Daylight Time.
         </tbody>
     </table>
 </div>
+-->
+#Coming Soon!
