@@ -2,7 +2,8 @@
 title: Booths
 layout: default
 ---
-
+# Coming Soon!
+<!--
 # Artists
 [Adonis Anderson](https://ko-fi.com/donisndoughboy){:target="_blank"} <br>
 [Annemarie Zheng]() <br>
@@ -32,3 +33,4 @@ layout: default
 [Kaleea]() <br>
 [Made By Mo (Morgan Sanders) ]() <br>
 [Morven Moeller](https://portfolimo.com/){:target="_blank"} <br>
+-->
