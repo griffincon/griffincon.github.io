@@ -2,7 +2,8 @@
 title: Cosplay Events
 layout: default
 ---
-
+# Coming Soon!
+<!--
 ## Griffincon XI Cosplay Contest
 GriffinCon is continuing the annual cosplay contest, hosted by the W&M Costuming Club! The contest will be Saturday, April 2nd, from 11:00 AM to 1:00 PM, in Tidewater. There will be prizes! 
 
@@ -28,3 +29,4 @@ Best Craftsman: <br>
 1st: 20$ Jo-Ann's gift card. <br>
 2nd: 15$ Jo-Ann's gift card. <br>
 3rd: 10$ Jo-Ann's gift card. 
+-->
