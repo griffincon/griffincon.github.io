@@ -5,7 +5,7 @@ css: schedule
 ---
 
 <!-- Thanks for the HTML export google sheets! -->
-<!-- 
+
 # Schedule of Events
 
 All times are in Eastern Daylight Time.
@@ -16,75 +16,80 @@ All times are in Eastern Daylight Time.
         <thead>
             <tr>
                 <th class="row-header freezebar-origin-ltr"></th>
-                <th class="column-headers-background">TIDEWATER A</th>
-                <th class="column-headers-background">TIDEWATER B</th>
-                <th class="column-headers-background">THE YORK ROOM</th>
+                <th class = "column-headers-background">BLAIR 229</th>
+                <th class="column-headers-background">BLAIR 201</th>
+                <th class="column-headers-background">BLAIR 205</th>
+                <th class="column-headers-background">BLAIR 221</th>
                 <th class="row-header freezebar-origin-ltr"></th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td class="time">10:00</td>
-                <td colspan="2" class="blue">Opening Ceremonies</td>
-                <td></td>
-                <td class="time">10:00</td>
-            </tr>
-            <tr>
                 <td class="time">11:00</td>
-                <td colspan="2" class="yellow">Cosplay Contest</td>
+                <td class="blue">Opening Ceremony</td>
+                <td></td>
+                <td></td>
                 <td></td>
                 <td class="time">11:00</td>
             </tr>
             <tr>
                 <td class="time">12:00</td>
-                <td colspan="2" class="yellow"></td>
-                <td class="blue">Pokemon Trivia</td>
+                <td></td>
+                <td class="yellow">Maid Cafe with Cosplay Club</td>
+                <td class = "blue">KaWho's That Pokemon? (Entry level fans!)</td>
+                <td></td>
                 <td class="time">12:00</td>
             </tr>
             <tr>
                 <td class="time">1:00</td>
                 <td></td>
+                <td class="yellow"></td>
+                <td class = "blue">KaWho's That Pokemon? (Expert level fans!)</td>
                 <td></td>
-                <td class="blue">Pokemon Trivia</td>
                 <td class="time">1:00</td>
             </tr>
             <tr>
                 <td class="time">2:00</td>
-                <td class="blue">How to Create a Comic</td>
-                <td class="yellow">Artist Alley and Vendor Fair</td>
-                <td class="yellow">Magical Girl Panel (18+)</td>
+                <td></td>
+                <td class="yellow"></td>
+                <td></td>
+                <td></td>
                 <td class="time">2:00</td>
             </tr>
             <tr>
                 <td class="time">3:00</td>
-                <td class="yellow">Cosplay 101</td>
-                <td class="yellow"></td>
-                <td class="blue">TTRPG Gaming</td>
+                <td></td>
+                <td></td>
+                <td class="yellow">Anime Trivia Competition</td>
+                <td class="blue">Artist Alley and Vendor Fair</td>
                 <td class="time">3:00</td>
             </tr>
             <tr>
                 <td class="time">4:00</td>
-                <td class="blue">1693 Furs Panel</td>
-                <td class="yellow"></td>
-                <td class="blue"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="blue">Artist Alley and Vendor Fair</td>
                 <td class="time">4:00</td>
             </tr>
             <tr>
                 <td class="time">5:00</td>
-                <td class="yellow">Rocky Horror Panel (18+)</td>
                 <td></td>
-                <td class="yellow">W&M Magic Club Gaming</td>
+                <td></td>
+                <td class = "yellow">1693 Furries Panel</td>
+                <td class="blue">Artist Alley and Vendor Fair</td>
                 <td class="time">5:00</td>
             </tr>
             <tr>
                 <td class="time">6:00</td>
-                <td class="blue">Closing Remarks</td>
+                <td class="blue">Closing Ceremony</td>
                 <td></td>
-                <td class="yellow"></td>
+                <td></td>
+                <td></td>
                 <td class="time">6:00</td>
             </tr>
         </tbody>
     </table>
 </div>
--->
-# Coming Soon!
+
+<!--# Coming Soon! -->
