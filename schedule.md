@@ -69,7 +69,7 @@ All times are in Eastern Daylight Time.
                 <td></td>
                 <td></td>
                 <td></td>
-                <td class="blue">Artist Alley and Vendor Fair</td>
+                <td class="blue"></td>
                 <td class="time">4:00</td>
             </tr>
             <tr>
@@ -77,7 +77,7 @@ All times are in Eastern Daylight Time.
                 <td></td>
                 <td></td>
                 <td class = "yellow">1693 Furries Panel</td>
-                <td class="blue">Artist Alley and Vendor Fair</td>
+                <td class="blue"></td>
                 <td class="time">5:00</td>
             </tr>
             <tr>
