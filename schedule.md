@@ -10,7 +10,7 @@ css: schedule
 
 All times are in Eastern Daylight Time.
 
-## Saturday, April 2nd
+## Saturday, April 15th
 <div class="ritz grid-container" dir="ltr" markdown="0">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <thead>
