@@ -66,9 +66,9 @@ All times are in Eastern Daylight Time.
             </tr>
             <tr>
                 <td class="time">4:00</td>
+                <td class = "yellow">Cosplay Club Panel</td>
                 <td></td>
-                <td></td>
-                <td></td>
+                <td class = "blue">Neurodiversity Panel</td>
                 <td class="blue"></td>
                 <td class="time">4:00</td>
             </tr>
