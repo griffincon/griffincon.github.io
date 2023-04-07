@@ -17,8 +17,8 @@ All times are in Eastern Daylight Time.
             <tr>
                 <th class="row-header freezebar-origin-ltr"></th>
                 <th class = "column-headers-background">BLAIR 229</th>
-                <th class="column-headers-background">BLAIR 201</th>
                 <th class="column-headers-background">BLAIR 205</th>
+                <th class="column-headers-background">BLAIR 219</th>
                 <th class="column-headers-background">BLAIR 221</th>
                 <th class="row-header freezebar-origin-ltr"></th>
             </tr>
@@ -35,48 +35,48 @@ All times are in Eastern Daylight Time.
             <tr>
                 <td class="time">12:00</td>
                 <td></td>
-                <td class="yellow">Maid Cafe with Cosplay Club</td>
                 <td class = "blue">KaWho's That Pokemon?</br> (Entry level fans!)</td>
+                <td class="yellow">Maid Cafe with Cosplay Club</td>
                 <td></td>
                 <td class="time">12:00</td>
             </tr>
             <tr>
                 <td class="time">1:00</td>
                 <td></td>
-                <td class="yellow"></td>
                 <td class = "blue">KaWho's That Pokemon? </br>(Expert level fans!)</td>
+                <td class="yellow"></td>
                 <td></td>
                 <td class="time">1:00</td>
             </tr>
             <tr>
                 <td class="time">2:00</td>
                 <td></td>
-                <td class="yellow"></td>
                 <td></td>
+                <td class="yellow"></td>
                 <td></td>
                 <td class="time">2:00</td>
             </tr>
             <tr>
                 <td class="time">3:00</td>
                 <td></td>
-                <td></td>
                 <td class="yellow">Anime Trivia Competition</td>
+                <td></td>
                 <td class="blue">Artist Alley and Vendor Fair</td>
                 <td class="time">3:00</td>
             </tr>
             <tr>
                 <td class="time">4:00</td>
                 <td class = "yellow">Cosplay Club Panel</td>
-                <td></td>
                 <td class = "blue">Neurodiversity Panel</td>
+                <td></td>
                 <td class="blue"></td>
                 <td class="time">4:00</td>
             </tr>
             <tr>
                 <td class="time">5:00</td>
                 <td></td>
-                <td></td>
                 <td class = "yellow">1693 Furries Panel</td>
+                <td></td>
                 <td class="blue"></td>
                 <td class="time">5:00</td>
             </tr>
