@@ -35,7 +35,7 @@ All times are in Eastern Daylight Time.
             <tr>
                 <td class="time">12:00</td>
                 <td></td>
-                <td class = "blue">KaWho's That Pokemon? (Entry level fans!)</td>
+                <td class = "yellow">KaWho's That Pokemon? (Entry level fans!)</td>
                 <td class="yellow">Maid Cafe with Cosplay Club</td>
                 <td></td>
                 <td class="time">12:00</td>
@@ -43,7 +43,7 @@ All times are in Eastern Daylight Time.
             <tr>
                 <td class="time">1:00</td>
                 <td></td>
-                <td class = "blue">KaWho's That Pokemon? (Expert level fans!)</td>
+                <td class = "yellow">KaWho's That Pokemon? (Expert level fans!)</td>
                 <td class="yellow"></td>
                 <td></td>
                 <td class="time">1:00</td>
@@ -51,7 +51,7 @@ All times are in Eastern Daylight Time.
             <tr>
                 <td class="time">2:00</td>
                 <td></td>
-                <td></td>
+                <td class = "blue">Copyright Law with Jefferson Spears</td>
                 <td class="yellow"></td>
                 <td></td>
                 <td class="time">2:00</td>
