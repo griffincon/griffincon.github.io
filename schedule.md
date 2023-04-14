@@ -61,7 +61,7 @@ All times are in Eastern Daylight Time.
                 <td></td>
                 <td class="yellow" style="text-align: center">Anime Trivia Competition</td>
                 <td></td>
-                <td class="yellow" style="text-align: center">Artist Alley and Vendor Fair</td>
+                <td class="yellow" style="text-align: center">Artist Alley <br> and Vendor Fair</td>
                 <td class="time">3:00</td>
             </tr>
             <tr>
