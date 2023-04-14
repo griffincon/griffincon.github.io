@@ -61,7 +61,7 @@ All times are in Eastern Daylight Time.
                 <td></td>
                 <td class="yellow" style="text-align: center">Anime Trivia Competition</td>
                 <td></td>
-                <td class="pink" style="text-align: center">Artist Alley and Vendor Fair</td>
+                <td class="yellow" style="text-align: center">Artist Alley and Vendor Fair</td>
                 <td class="time">3:00</td>
             </tr>
             <tr>
@@ -69,7 +69,7 @@ All times are in Eastern Daylight Time.
                 <td class = "yellow" style="text-align: center">Cosplay Club Panel</td>
                 <td class = "blue" style="text-align: center">Neurodiversity Panel</td>
                 <td></td>
-                <td class="pink"></td>
+                <td class="yellow"></td>
                 <td class="time">4:00</td>
             </tr>
             <tr>
@@ -77,7 +77,7 @@ All times are in Eastern Daylight Time.
                 <td></td>
                 <td class = "yellow" style="text-align: center">1693 Furries Panel</td>
                 <td class = "blue" style="text-align: center">Cosplay Contest</td>
-                <td class="pink"></td>
+                <td class="yellow"></td>
                 <td class="time">5:00</td>
             </tr>
             <tr>
