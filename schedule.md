@@ -26,7 +26,7 @@ All times are in Eastern Daylight Time.
         <tbody>
             <tr>
                 <td class="time">11:00</td>
-                <td class="blue">Opening Ceremony</td>
+                <td class="blue">Opening Ceremony <br> and Keynote Speech</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -35,15 +35,15 @@ All times are in Eastern Daylight Time.
             <tr>
                 <td class="time">12:00</td>
                 <td></td>
-                <td class = "yellow">KaWho's That Pokemon? (Entry level fans!)</td>
-                <td class="yellow">Maid Cafe with Cosplay Club</td>
+                <td class = "yellow">KaWho's That Pokemon? <br> (Entry level fans!)</td>
+                <td class="yellow">Maid Cafe <br> w/ Cosplay Club</td>
                 <td></td>
                 <td class="time">12:00</td>
             </tr>
             <tr>
                 <td class="time">1:00</td>
                 <td></td>
-                <td class = "yellow">KaWho's That Pokemon? (Expert level fans!)</td>
+                <td class = "yellow">KaWho's That Pokemon? <br> (Expert level fans!)</td>
                 <td class="yellow"></td>
                 <td></td>
                 <td class="time">1:00</td>
@@ -51,7 +51,7 @@ All times are in Eastern Daylight Time.
             <tr>
                 <td class="time">2:00</td>
                 <td></td>
-                <td class = "blue">Copyright Law with Jefferson Spears</td>
+                <td class = "blue">Copyright Law <br> w/ Jefferson Spears</td>
                 <td class="yellow"></td>
                 <td></td>
                 <td class="time">2:00</td>
@@ -61,7 +61,7 @@ All times are in Eastern Daylight Time.
                 <td></td>
                 <td class="yellow">Anime Trivia Competition</td>
                 <td></td>
-                <td class="blue">Artist Alley and Vendor Fair</td>
+                <td class="magenta">Artist Alley and Vendor Fair</td>
                 <td class="time">3:00</td>
             </tr>
             <tr>
@@ -69,15 +69,15 @@ All times are in Eastern Daylight Time.
                 <td class = "yellow">Cosplay Club Panel</td>
                 <td class = "blue">Neurodiversity Panel</td>
                 <td></td>
-                <td class="blue"></td>
+                <td class="magenta"></td>
                 <td class="time">4:00</td>
             </tr>
             <tr>
                 <td class="time">5:00</td>
                 <td></td>
                 <td class = "yellow">1693 Furries Panel</td>
-                <td></td>
-                <td class="blue"></td>
+                <td class = "blue">Cosplay Contest</td>
+                <td class="magenta"></td>
                 <td class="time">5:00</td>
             </tr>
             <tr>
