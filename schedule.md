@@ -3,12 +3,12 @@ title: Schedule
 layout: default
 css: schedule
 ---
-<!--
+
 <!-- Thanks for the HTML export google sheets! -->
 
 # Schedule of Events
-
-All times are in Eastern Daylight Time.
+## Coming soon!
+<!--All times are in Eastern Daylight Time.
 
 ## Saturday, April 15th
 <div class="ritz grid-container" dir="ltr" markdown="0">
