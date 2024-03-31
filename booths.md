@@ -1,5 +1,5 @@
 ---
-title: Booths
+title: Vendors
 layout: default
 ---
 ## For those looking to sell art at Griffincon, please fill out this [form](https://forms.gle/2dcRa9L2Cggx2uWY7)).
