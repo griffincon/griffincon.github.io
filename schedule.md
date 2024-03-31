@@ -6,8 +6,8 @@ css: schedule
 
 <!-- Thanks for the HTML export google sheets! -->
 
-# Schedule of Events
-## Coming soon!
+<!--# Schedule of Events
+## Coming soon!-->
 All times are in Eastern Daylight Time.
 
 ## Saturday, April 20th
