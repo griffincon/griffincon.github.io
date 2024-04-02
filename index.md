@@ -5,4 +5,4 @@ layout: default
 # Griffincon XIII
 <!--## April 20th 11AM-6PM-->
 
-[Griffincon XII Poster](assets/img/gcupdatedqr.png)
+![Griffincon XII Poster](assets/img/gcupdatedqr.png)
