@@ -54,7 +54,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td></td>
+                <td class = "blue">Casual Quizbowl</td>
                 <td class = "blue">KPOP Random Dance w/ Cosplay Club</td>
                 <td class = "yellow">Pokemon Trivia</td>
                 <td class="blue">RPGs Besides DnD: A Tabletop Panel</td>
@@ -65,7 +65,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td class = "yellow">Virginia Bowl</td>
+                <td class = "blue">Casual Quizbowl</td>
                 <td class = "blue">Blanket Fort Competition</td>
                 <td></td>
                 <td class="yellow">Anime Music Quiz</td>
@@ -76,7 +76,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td></td>
+                <td class = "yellow">Virginia Bowl</td>
                 <td></td>
                 <td></td>
                 <td class="blue">Beginner Cosplay Panel</td>
@@ -87,7 +87,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td class = "yellow">Virginia Bowl</td>
+                <td class = "blue">Casual Quizbowl</td>
                 <td></td>
                 <td></td>
                 <td class="yellow">Kahoot Game Show w/ Cosplay Club</td>
@@ -98,7 +98,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td></td>
+                <td class = "yellow">Virginia Bowl</td>
                 <td></td>
                 <td></td>
                 <td></td>
