@@ -118,5 +118,6 @@ All times are in Eastern Daylight Time.
         </tbody>
     </table>
 </div>
+
 ### *Sign up for the Virginia Bowl, hosted by Quizbowl Club, [here](https://docs.google.com/forms/d/e/1FAIpQLSdwfr7D5m-XeqoqiJRbF6NHqHIgxfejMXcz8quOJ20Ucz3HuQ/viewform?usp=sf_link]! Each team can be 1-5 people, but teams of less than 5 may be combined.
 <!--# Coming Soon! -->
