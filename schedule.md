@@ -43,7 +43,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td class = "yellow">Virginia Bowl</td>
+                <td class = "yellow">Virginia Bowl*</td>
                 <td></td>
                 <td></td>
                 <td class="yellow">Costume Contest</td>
@@ -76,7 +76,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td class = "yellow">Virginia Bowl</td>
+                <td class = "yellow">Virginia Bowl*</td>
                 <td></td>
                 <td></td>
                 <td class="blue">Beginner Cosplay Panel</td>
@@ -98,7 +98,7 @@ All times are in Eastern Daylight Time.
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
-                <td class = "yellow">Virginia Bowl</td>
+                <td class = "yellow">Virginia Bowl*</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -118,5 +118,5 @@ All times are in Eastern Daylight Time.
         </tbody>
     </table>
 </div>
-
+### *Sign up for the Virginia Bowl, hosted by Quizbowl Club, [here](https://docs.google.com/forms/d/e/1FAIpQLSdwfr7D5m-XeqoqiJRbF6NHqHIgxfejMXcz8quOJ20Ucz3HuQ/viewform?usp=sf_link]! Each team can be 1-5 people, but teams of less than 5 may be combined.
 <!--# Coming Soon! -->
