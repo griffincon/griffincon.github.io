@@ -31,7 +31,7 @@ All times are in Eastern Daylight Time.
                 <td class="time">11:00</td>
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
-                <td class = "blue">Tolkein-Themed Activities</td>
+                <td class = "blue">Tolkien Whiteboard Art Competition</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -42,7 +42,7 @@ All times are in Eastern Daylight Time.
                 <td class="time">12:00</td>
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
-                <td class = "blue">Tolkein-Themed Activities</td>
+                <td class = "blue">Tolkein Who-Would-Win Bracket</td>
                 <td class = "yellow">Virginia Bowl*</td>
                 <td></td>
                 <td></td>
@@ -53,7 +53,7 @@ All times are in Eastern Daylight Time.
                 <td class="time">1:00</td>
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
-                <td class = "blue">Tolkein-Themed Activities</td>
+                <td class = "blue">Middle Earth's Creation Myth and Live Music: The Song of Durin</td>
                 <td class = "blue">Casual Quizbowl</td>
                 <td class = "blue">KPOP Random Dance w/ Cosplay Club</td>
                 <td class = "yellow">Pokemon Trivia</td>
@@ -66,7 +66,7 @@ All times are in Eastern Daylight Time.
                 <td class="yellow">Arist Alley</td>
                 <td class = "blue">Tolkein-Themed Activities</td>
                 <td class = "blue">Casual Quizbowl</td>
-                <td class = "blue">Blanket Fort Competition</td>
+                <td></td>
                 <td></td>
                 <td class="yellow">Anime Music Quiz</td>
                 <td class="time">2:00</td>
@@ -75,9 +75,9 @@ All times are in Eastern Daylight Time.
                 <td class="time">3:00</td>
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
-                <td class = "blue">Tolkein-Themed Activities</td>
+                <td class = "blue">Fellowship of the Ring Watch Party and Discussion</td>
                 <td class = "yellow">Virginia Bowl*</td>
-                <td></td>
+                <td class = "yellow">Blanket Fort Competition**</td>
                 <td></td>
                 <td class="blue">Beginner Cosplay Panel</td>
                 <td class="time">3:00</td>
@@ -86,9 +86,9 @@ All times are in Eastern Daylight Time.
                 <td class="time">4:00</td>
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
-                <td class = "blue">Tolkein-Themed Activities</td>
+                <td class = "blue">Fellowship of the Ring Watch Party and Discussion</td>
                 <td class = "blue">Casual Quizbowl</td>
-                <td></td>
+                <td class = "yellow">Blanket Fort Competition**</td>
                 <td></td>
                 <td class="yellow">Kahoot Game Show w/ Cosplay Club</td>
                 <td class="time">4:00</td>
@@ -97,7 +97,7 @@ All times are in Eastern Daylight Time.
                 <td class="time">5:00</td>
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
-                <td class = "blue">Tolkein-Themed Activities</td>
+                <td class = "blue">Fellowship of the Ring Watch Party and Discussion</td>
                 <td class = "yellow">Virginia Bowl*</td>
                 <td></td>
                 <td></td>
@@ -108,7 +108,7 @@ All times are in Eastern Daylight Time.
                 <td class="time">6:00</td>
                 <td class="blue">Tabletop RPG</td>
                 <td class="yellow">Arist Alley</td>
-                <td class = "blue">Tolkein-Themed Activities</td>
+                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -120,4 +120,5 @@ All times are in Eastern Daylight Time.
 </div>
 
 ### *Sign up for the Virginia Bowl, hosted by Quizbowl Club, [here](https://docs.google.com/forms/d/e/1FAIpQLSdwfr7D5m-XeqoqiJRbF6NHqHIgxfejMXcz8quOJ20Ucz3HuQ/viewform?usp=sf_link)! Each team can be 1-5 people, but teams of less than 5 may be combined.
+### **Sign-up link for the Blanket Fort Competition coming soon!
 <!--# Coming Soon! -->
