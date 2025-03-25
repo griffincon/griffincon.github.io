@@ -7,7 +7,7 @@ css: schedule
 ## Coming soon!-->
 All times are in Eastern Daylight Time.
 
-## Saturday, April 20th
+## Saturday, April 5th
 <!--<div class="ritz grid-container" dir="ltr" markdown="0">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <thead>
@@ -114,8 +114,8 @@ All times are in Eastern Daylight Time.
             </tr>
         </tbody>
     </table>
-</div>-->
+</div>
 
 ### *Sign up for the Virginia Bowl, hosted by Quizbowl Club, [here](https://docs.google.com/forms/d/e/1FAIpQLSdwfr7D5m-XeqoqiJRbF6NHqHIgxfejMXcz8quOJ20Ucz3HuQ/viewform?usp=sf_link)! Each team can be 1-5 people, but teams of less than 5 may be combined.
-### **Sign-up for the Blanket Fort Competition [here](https://docs.google.com/forms/d/1Qt1xhNSTw9toTOaI_Eg2KeyZUx-aoCXOiD5f5-4KPxs)!
+### **Sign-up for the Blanket Fort Competition [here](https://docs.google.com/forms/d/1Qt1xhNSTw9toTOaI_Eg2KeyZUx-aoCXOiD5f5-4KPxs)! -->
 <!--# Coming Soon! -->
