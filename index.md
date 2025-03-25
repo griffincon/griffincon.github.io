@@ -7,3 +7,4 @@ layout: default
 
 ![Griffincon 2025 Poster](assets/img/gcon2025Poster.png)
 
+
