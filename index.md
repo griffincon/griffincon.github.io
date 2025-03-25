@@ -2,7 +2,8 @@
 title: Home
 layout: default
 ---
-# Griffincon XIII
-<!--## April 20th 11AM-6PM-->
+# Griffincon 2025
+<!--## April 5th 12PM-6PM-->
 
-![Griffincon XII Poster](assets/img/gcupdatedqr.png)
+![Griffincon 2025 Poster](assets/img/gcon2025Poster.png)
+
