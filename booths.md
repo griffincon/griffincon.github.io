@@ -1,11 +1,18 @@
 ---
-title: Vendors
+title: Booths
 layout: default
+css: Booths
 ---
-## For those looking to sell art at Griffincon, please fill out this [form](https://forms.gle/2dcRa9L2Cggx2uWY7)).
+# Who's at Griffin Con?
+## Anime Society
 
-## For those looking to sell other types of goods, please fill out this [form](https://forms.gle/xU7G71v1Dqi5x31U7).
+## Cosplay Club
+## Conquest Publishing
+## Leona Wisoker
+## Minecraft Club
+## Tabletop RPG Club
+## Tolkien Society
+## Wizarding Club
 
-<!--Sales will be from 3-6pm on April 15th. -->
 Please send any questions to [rtraynal@wm.edu](rtraynal@wm.edu).
 
