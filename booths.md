@@ -5,9 +5,12 @@ css: Booths
 ---
 # Who's at Griffin Con?
 ## Anime Society
-#### Anime Opening Quiz --Time & Location-- Participants should bring a laptop!
+#### Anime Music Quiz 2-3pm 
+Participants should bring a laptop!
 ## [Cosplay Club](https://www.instagram.com/wmcosclub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-#### Cosplay Contest --More Info--
+#### Cosplay Contest Entry 12-1pm Blair 215
+Stop by to get your photo taken and enter for your chance to win an award for your cosplay!
+#### Pop Culture Trivia 1-2pm Blair 229
 #### Intro to Cosplay Panel and Q&A  2-3pm Blair 229
 #### Cosplay Club Karaoke 3-4pm Blair 221
 ## Conquest Publishing
@@ -16,7 +19,7 @@ css: Booths
 #### Shadowdark RPG  3-6pm Blair 219
 #### Miniatures Painting Class 12-6pm Blair 228
 ## Leona Wisoker
-#### Vending in Hallway!
+Independently published books for sale! Find your next great read!
 ## Minecraft Club
 #### Minecraft Minigame Panel  3-4pm Blair 229
 #### Minecraft Speedrunning Competition  4-6pm Blair 229
