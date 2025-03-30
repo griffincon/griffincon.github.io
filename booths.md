@@ -6,10 +6,10 @@ css: Booths
 # Who's at Griffin Con?
 ## Anime Society
 #### Anime Opening Quiz --Time & Location-- Participants should bring a laptop!
-## Cosplay Club
+## [Cosplay Club](https://www.instagram.com/wmcosclub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 #### Cosplay Contest --More Info--
 #### Intro to Cosplay Panel and Q&A  2-3pm Blair 229
-#### XXX --Time & Location--
+#### Cosplay Club Karaoke 3-4pm Blair 221
 ## Conquest Publishing
 #### RAIOS RPG  12-2pm Blair 219
 #### Copyrights for Creators  2-3pm Blair 219
