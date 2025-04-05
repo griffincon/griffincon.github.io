@@ -8,7 +8,7 @@ css: Booths
 #### Anime Music Quiz 2-3pm Blair 221
 Participants should bring a laptop!
 ## Board Game Club
-### Board Game Medley! 1-5pm Blair 215
+#### Board Game Medley! 1-5pm Blair 215
 ## [Cosplay Club](https://www.instagram.com/wmcosclub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 #### Cosplay Contest Entry 12-1pm Blair 215
 Stop by to get your photo taken and enter for your chance to win an award for your cosplay!
