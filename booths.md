@@ -5,8 +5,10 @@ css: Booths
 ---
 # Who's at Griffin Con?
 ## Anime Society
-#### Anime Music Quiz 2-3pm 
+#### Anime Music Quiz 2-3pm Blair 221
 Participants should bring a laptop!
+## Board Game Club
+### Board Game Medley! 1-5pm Blair 215
 ## [Cosplay Club](https://www.instagram.com/wmcosclub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 #### Cosplay Contest Entry 12-1pm Blair 215
 Stop by to get your photo taken and enter for your chance to win an award for your cosplay!
@@ -27,6 +29,7 @@ Independently published books for sale! Find your next great read!
 #### Tabletop RPG Medley  1-5pm Blair 201
 ## Tolkien Society
 #### Assorted Tolkein-Themed Activities  12-6pm Blair 213
+Tolkein Lore Presentations, Middle Earth Who-Would-Win, Tolkein Lore Presentations, Middle-Earth Trivia, Live Tolkein music, Lay of Leithian (an unofficial Russian Tolkein Opera)
 ## Wizarding Club
 #### Tabling in Hallway!
 
