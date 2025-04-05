@@ -3,7 +3,7 @@ title: Booths
 layout: default
 css: Booths
 ---
-# Who's at Griffin Con?
+# Who's at Griffincon?
 ## Anime Society
 #### Anime Music Quiz 2-3pm Blair 221
 Participants should bring a laptop!
