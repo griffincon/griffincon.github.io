@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Griffincon XIII
+title: Griffincon
 exclude:
   - README.md
   - vendor/
