@@ -7,6 +7,6 @@ css: schedule
 ## Coming soon!-->
 All times are in Eastern Daylight Time.
 
-## Saturday, April 5th
+## Saturday, April 11th
 
 ![Griffincon 2026 Schedule](assets/img/26Schedule.png)
